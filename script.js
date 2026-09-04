@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // Edit 'phrases' array to change the rotating taglines
   // ----------------------------------------------------------
   const phrases = [
-    'Unity 3D Developer',
-    'AR / VR Engineer',
-    'XR Experience Creator',
-    'Interactive World Builder',
-    'Game Systems Architect',
+    'Unity Game Developer',
+    '3D / 2D Game Developer',
+    'Vehicle Simulation Expert',
+    'Hypercasual & Puzzle Games',
+    'AR / VR Developer',
   ];
 
   const typedEl = document.querySelector('.typed-text');
